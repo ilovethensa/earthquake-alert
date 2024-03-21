@@ -1,0 +1,1 @@
+nix-shell --command 'python3 main.py'
